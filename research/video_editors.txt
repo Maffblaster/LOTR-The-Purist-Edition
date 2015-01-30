@@ -1,0 +1,17 @@
+List of possible video editor options in Linux:
+Avidemux
+Blender
+Cinelarra
+FFMPEG
+Jashaka
+KDEnlive
+Kino
+OpenShot
+
+Investigate:
+Blender
+https://www.youtube.com/playlist?annotation_id=annotation_4173738165&feature=iv&list=PLjyuVPBuorqIhlqZtoIvnAVQ3x18sNev4&src_vid=xSGIPmQdV6M
+https://www.youtube.com/watch?v=QnM_UAsLHag
+
+OpenShot
+KDEnlive
